@@ -10,6 +10,7 @@ Message relays to these channels are currently supported:
 
 - Slack
 - Jira Cloud
+- Email (WIP)
 
 
 ## :book: How to use:
